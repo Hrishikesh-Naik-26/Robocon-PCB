@@ -1,0 +1,42 @@
+# Output and Generated Files
+Project Outputs*/
+Fabrication/
+*.GBL
+*.GBT
+*.GBO
+*.GTO
+*.GTP
+*.GTS
+*.DDP
+*.NC
+*.XLN
+*.pdf
+*.bom
+*.csv
+*.xlsx
+*.DRR
+*.drc
+*.html
+*.LOG
+*.TXT
+
+# Cache and Previews
+__Previews/
+History/
+*.PcbDocPreview
+*.SchDocPreview
+*.DBLib
+*.OLBCache
+
+# System & Temp Files
+.DS_Store
+Thumbs.db
+*.bak
+*~
+*.WAS
+*.emf
+*.ini
+
+# IDE
+.vscode/
+.idea/
