@@ -28,6 +28,8 @@ History/
 *.DBLib
 *.OLBCache
 
+Libraries/
+
 # System & Temp Files
 .DS_Store
 Thumbs.db
